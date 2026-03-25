@@ -13,10 +13,6 @@ Para este proyecto, decidí realizar mi propia secuencia de poses de referencia 
 * "Dibujé las poses base directamente en Blender usando una capa de Grease Pencil en color gris utilizando de referencia una imagen con las poses a utilizar.",
 * **Poses clave desarrolladas:** *Contact* (Contacto), *Down* (Abajo), *Pass* (Pase) y *Up* (Arriba).
 
-![Guía de Poses Manual]
-[Texto alternativo para la imagen](./1774369476696.png/1774369476696.png)
-*(Arriba: Mi propia guía de poses utilizada como base para la animación final).*
-
 ## 2. Documentación "How To": Animación con Grease Pencil
 A continuación se detalla el método paso a paso que utilicé para lograr la animación en Blender:
 
