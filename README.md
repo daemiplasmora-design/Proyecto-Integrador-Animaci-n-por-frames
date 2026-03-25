@@ -1,4 +1,4 @@
-# Animación Frame por Frame: Walk Cycle en Blender 2D
+# Animación Frame por Frame en Blender 2D
 
 **Profesor:** Aristides Caballero Alfaro
 **Alumno:** [Plascencia Mora David Emiliano]
@@ -6,10 +6,11 @@
 ## Objetivo del Proyecto
 Realizar una animación 2D tradicional (frame por frame) de un ciclo de caminado ("walk cycle") utilizando la herramienta **Grease Pencil** en Blender.
 
-## 1. Diseño y Guía de Poses (Proceso 100% Manual)
+## 1. Diseño y Guía de Poses 
 Para este proyecto, decidí realizar mi propia secuencia de poses de referencia completamente a mano, prescindiendo del uso de Inteligencia Artificial para enfocarme en los fundamentos tradicionales de la animación.
 
-* **Método de bocetaje:** [Describe brevemente cómo lo hiciste. Ej: "Dibujé las poses base directamente en Blender usando una capa de Grease Pencil en color azul", o "Hice los bocetos en papel, los escaneé y los usé como imagen de fondo"].
+* **Método de bocetaje:**
+* "Dibujé las poses base directamente en Blender usando una capa de Grease Pencil en color gris utilizando de referencia una imagen con las poses a utilizar.",
 * **Poses clave desarrolladas:** *Contact* (Contacto), *Down* (Abajo), *Pass* (Pase) y *Up* (Arriba).
 
 ![Guía de Poses Manual](./referencias/guia_poses_manual.png)
